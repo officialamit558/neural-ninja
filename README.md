@@ -5,9 +5,19 @@
 3) Mahima Dixit
 4) Gaurav Singh
 
+# Deployed Live Link
+https://neuralninga.streamlit.app/
+
 ## System Architecture
 ![Project Architecture / Design](https://github.com/officialamit558/neural-ninja/blob/main/images/pro_design.png)
+![Project Architecture / Design](https://github.com/officialamit558/neural-ninja/blob/main/images/3.jpg)
+![Project Architecture / Design](https://github.com/officialamit558/neural-ninja/blob/main/images/4.jpg)
 
+# Customer Churn Prediction
+
+This project aims to design, build, evaluate, and deploy a machine learning model that predicts whether a customer is likely to discontinue using a company's service (i.e., churn). The workflow, dataset structure, and model evaluation strategy are based on the diagrams and instructions provided.
+
+---
 
 # Customer_Churn_Prediction_ML_Project
 
@@ -85,6 +95,10 @@ The dataset consists of **1,000 tuples** and simulates customer data based on th
 * **Imbalance Handling:** The **SMOTE** technique is applied to the training set to ensure the minority class is adequately represented for better model learning.
 
 ### 3. Model Training & Evaluation
+![Project Architecture / Design](https://github.com/officialamit558/neural-ninja/blob/main/images/5.jpg)
+![Project Architecture / Design](https://github.com/officialamit558/neural-ninja/blob/main/images/2.jpg)
+
+
 
 The workflow includes iterative model training and evaluation using various classification approaches:
 
