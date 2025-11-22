@@ -5,7 +5,7 @@
 3) Mahima Dixit
 4) Gaurav Singh
 
-![Project Architecture / Design]("[C:\Users\dixit\OneDrive\Documents\pro_design.png](https://github.com/officialamit558/neural-ninja/blob/main/images/pro_design.png)")
+![Project Architecture / Design]("C:\Users\dixit\OneDrive\Documents\pro_design.png](https://github.com/officialamit558/neural-ninja/blob/main/images/pro_design.png)")
 
 
 # Customer_Churn_Prediction_ML_Project
