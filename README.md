@@ -48,6 +48,22 @@ The project follows a defined machine learning system architecture, utilizing sp
 ---
 
 ## Detailed Methodology (Workflow Steps)
+customer-churn/
+├─ data/
+│ ├─ customer_churn_data.csv # auto-generated dataset
+├─ notebooks/
+│ ├─ churn_exploration.ipynb # Google Colab compatible notebook
+├─ src/
+│ ├─ data_gen.py # dataset creation script
+│ ├─ preprocess.py # cleaning & preprocessing
+│ ├─ features.py # feature engineering utilities
+│ ├─ train.py # training & evaluation pipeline
+│ ├─ model_utils.py # saving, loading & metrics
+│ ├─ app_streamlit.py # Streamlit deployment app
+├─ models/
+│ ├─ best_model.joblib # saved model
+├─ requirements.txt
+├─ README.md
 
 ### 1. Dataset Description
 
