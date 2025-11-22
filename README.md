@@ -179,6 +179,17 @@ streamlit run app.py
 ```
 
 ---
+# Challenges
+1) While using the binaries of the standard scaler , we got error because we weren't passing the input data in correct order.
+2) While loading the ui, error handling was not efficient.
+3) The User experience of the app could have been better, but due to time constraints we were unable to optimize that.
+4) Our model can be made more efficient by online training.
+
+#How will we resolve the challenges ?
+1) StandardScaler Order Issue: We resolved this by saving the training column names and strictly enforcing that exact feature order using reindex before applying the scaler.
+2) UI Error Handling: We would improve efficiency by wrapping critical functions in try-except blocks to catch crashes and display user-friendly error messages instead of raw code tracebacks.
+3) User Experience: We would optimize the interface by organizing input fields into a grid layout, adding tooltips for guidance, and implementing input validation to ensure smoother interaction.
+4) Model Efficiency: We would enhance the model's efficiency by setting up a pipeline for online learning or periodic retraining to continuously update the model with new customer data.
 
 ## 8. Conclusion
 
