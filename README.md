@@ -95,17 +95,14 @@ The workflow includes iterative model training and evaluation using various clas
 
 ---
 
-## Team & Setup
-
-| Name | Contribution Highlights |
-| :--- | :--- |
-| [Amit Kumar] | [Role] - Full MLOps pipeline construction, SMOTE implementation, Model Tuning. |
-| [Md Sarim] | [Role] - EDA, Data Wrangling, Streamlit UI development. |
-| [Mahima Dixit] | [Role] - Full MLOps pipeline construction, SMOTE implementation, Model Tuning. |
-| [Gaurav Singh] | [Role] - EDA, Data Wrangling, Streamlit UI development. |
-
 ## Dependencies
-
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+requests
 
 ### Data Manipulation
 pandas
